@@ -1,0 +1,7 @@
+,Median_correlation
+Inv3_Mixed_5c.branch1x1.conv,0.15007384926688452
+Inv3_Conv2d_4a_3x3.conv,0.1421017233643244
+Inv3_Mixed_6b.branch1x1.conv,0.14852264511784125
+Inv3_Mixed_6c.branch7x7_2.conv,0.15762203329168956
+Inv3_Mixed_7c.branch_pool.conv,0.1401541062670756
+Inv3_avgpool,0.11858258835962868
