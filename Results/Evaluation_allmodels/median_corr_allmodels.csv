@@ -1,0 +1,7 @@
+,Median_correlation
+Lasso_alpha0.01,0.2417
+ElasticNet_alpha0.001,0.2415
+Ridge_alpha1.0,0.2412
+Linear_reg_base_model,0.2402
+KNeighborsRegressor,0.1021
+DecisionTreeRegressor,0.0382

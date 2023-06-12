@@ -1,7 +1,7 @@
-,Mean_correlation
-Lasso_alpha0.01,0.2596446540637554
-Ridge_alpha1.0,0.2594294707593004
-ElasticNet_alpha0.001,0.25928549455070854
-Linear_reg_base_model,0.2587149794586322
-KNeighborsRegressor,0.1223801499368381
-DecisionTreeRegressor,0.04444023551344699
+﻿Machine learning model,Encoding accuracy
+Lasso-alpha0.01,0.2596
+Ridge-alpha1.0,0.2594
+ElasticNet-alpha0.001,0.25929
+Linear-reg-base-model,0.2587
+KNeighborsRegressor,0.1224
+DecisionTreeRegressor,0.04444
