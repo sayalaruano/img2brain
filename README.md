@@ -89,7 +89,7 @@ A graphical representation of the feature engineering process is presented below
 
 <p align="center">
 <figure align="center">
-  <img src="./img/linearizing_encoding_algorithm.jpg" alt="my alt text"/>
+  <img src="./img/linearizing_encoding_algorithm.jpg" alt="my alt text" width="600"/>
   <figcaption>Figure 4. Diagram of the feature engineering stage. Obtained from <a href="https://doi.org/10.48550/arXiv.2301.03198">[3]</a>. </figcaption>
 </figure>
 </p>
@@ -121,7 +121,7 @@ While the overall encoding accuracy of the best model is low, the distribution o
 
 <br />
 <p align="center">
-    <img src="./img/Corrcoef_allmodels.png" width="800" alt="Encoding_Accuracy_Distribution"/>
+    <img src="./img/Corrcoef_allmodels.png" width="800" alt="Encoding_Accuracy_Distribution" width="600"/>
     <br />
     <em><b>Figure 5.</b> Histograms of encoding accuracy for machine learning models across all voxels. Models were trained to predict neural responses to visual stimuli from naturalistic images.</em>
 </p>
