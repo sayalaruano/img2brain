@@ -24,7 +24,7 @@
 - [Dataset](#dataset)
 - [Feature engineering](#feature-engineering)
 - [Machine learning models](#machine-learning-models)
-- [How to set up the environmen to run the code?](#how-to-set-up-the-environmen-to-run-the-code)
+- [How to set up the environment to run the code?](#how-to-set-up-the-environmen-to-run-the-code)
 - [Structure of the repository](#structure-of-the-repository)
 - [Credits](#credits)
 - [Further details](#details)
