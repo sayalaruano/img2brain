@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-   Predicting the neural responses to visual stimuli of naturalistic scenes using machine learning
+   Predicting the neural responses to visual stimuli of naturalistic scenes using ML-based visual encoding models.
 </p>
 
 ## Table of contents:
@@ -66,7 +66,7 @@ aroused by the external environment. The following figure gives an schematic rep
 
 The data for this project is part of the [Natural Scenes Dataset][nsd] (NSD), a massive **dataset of 7T fMRI responses to images of natural scenes** coming from the [COCO dataset][coco]. The **training dataset** consists of **brain responses measured at 10.000 brain locations (voxels) to 8857 images** (in jpg format) for one subject. The 10.000 voxels are distributed around the visual pathway and may encode **perceptual and semantic features** in different proportions. The **test dataset** comprises **984 images** (in jpg format), and the goal is to predict the brain responses to these images.
 
-You can access the dataset through Zenodo with the following DOI: [10.5281/zenodo.7979730][dataset_doi].
+You can access the dataset through Zenodo with the following DOI: [doi.org/10.5281/zenodo.7979729][dataset_doi].
 
 The training dataset was split into **training and validation partitions** with an **80/20 ratio**. The training partition 
 was used to train the models, and the validation partition was used to evaluate the models. The test dataset was used to make 
@@ -176,6 +176,10 @@ The main files and directories of this repository are:
 
 More details about the biological background of the project, the interpretation of the results, and ideas for further work are available in this [pdf report](img2brain_report.pdf).
 
+## Citation 
+
+**Ayala-Ruano, S.** (2023). **Img2brain: Predicting the neural responses to visual stimuli of naturalistic scenes using machine learning** (Version 1.0.0) [Dataset/Software]. *Zenodo*. doi: [doi.org/10.5281/zenodo.7979729][data-arch].
+
 ## Contact
 
 If you have comments or suggestions about this project, you can [open an issue][issues] in this repository.
@@ -185,7 +189,7 @@ If you have comments or suggestions about this project, you can [open an issue][
 [alg_web]: http://algonauts.csail.mit.edu
 [sysbio]: https://www.maastrichtuniversity.nl/education/master/systems-biology
 [maasuni]: https://www.maastrichtuniversity.nl/
-[dataset_doi]: https://doi.org/10.5281/zenodo.7979730
+[dataset_doi]: https://doi.org/10.5281/zenodo.7979729
 [alexnet]: https://pytorch.org/vision/master/models/alexnet.html
 [vgg16]: https://pytorch.org/vision/master/models/generated/torchvision.models.vgg16.html#torchvision.models.vgg16
 [resnet50]: https://pytorch.org/vision/master/models/generated/torchvision.models.resnet50.html#torchvision.models.resnet50
