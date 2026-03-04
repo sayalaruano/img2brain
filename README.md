@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/sayalaruano/NTDs2RDF/blob/main/LICENSE.md">
-        <img alt="PyPI - License" src="https://img.shields.io/pypi/l/bioregistry" />
+    <a href="https://github.com/sayalaruano/img2brain/blob/main/LICENSE.md">
+        <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
     </a>
         <a href="https://doi.org/10.5281/zenodo.7979730">
         <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7979730.svg" alt="DOI">
